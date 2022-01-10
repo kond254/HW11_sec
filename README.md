@@ -1,5 +1,5 @@
 ## Mater Branch
-This change is made in master branch
+This change is made in master branch (this change is made in master branch)
 
 ## myBranch
 <<<<<<< HEAD
